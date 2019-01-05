@@ -87,3 +87,15 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [Fronted End Happy Hour](http://frontendhappyhour.com/)  
 [Developer Tea](https://spec.fm/podcasts/developer-tea)  
 [CodeNewbie](https://www.codenewbie.org/podcast)  
+
+## CSS
+
+  ## General
+  
+  [What CSS to prefix](http://shouldiprefix.com/)
+  [css photo filters](https://www.cssfilters.co/)
+  
+  ## Responsive Design
+  [Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+  [Responsive Design Basics](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
+  [A tale of two viewports](https://www.quirksmode.org/mobile/viewports2.html)
